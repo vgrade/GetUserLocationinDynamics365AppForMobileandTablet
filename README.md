@@ -9,8 +9,9 @@ Solution Components
 
 To Do:-
 1. Download the solution and import into your crm instance
-2. On the event on which you want to check in location, call the function getcurrentLocation from Reversegeocoding js library. 
+2. On the event on which you want to check in location, call the function getcurrentLocation from Reversegeocoding js library.(In this solution i have called it on on-load of account) 
 3. Enable location in your  Dynamics 365 app for Mobile and tablet
 4. Make sure plugin step is enabled
+5. Open a user record, you'll see map in top tab and Location history tab to show location history
 
 For help,please contact grade.vishal@gmail.com
